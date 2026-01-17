@@ -12,7 +12,7 @@
     "src": "node_modules/leaflet/dist/images/marker-icon.png"
   },
   "resources/js/Pages/Dashboard/Index.css": {
-    "file": "assets/Index-93e82042.css",
+    "file": "assets/Index-09754e55.css",
     "src": "resources/js/Pages/Dashboard/Index.css"
   },
   "resources/js/Pages/Dashboard/Index.jsx": {
@@ -22,9 +22,9 @@
       "assets/marker-icon-574c3a5c.png"
     ],
     "css": [
-      "assets/Index-93e82042.css"
+      "assets/Index-09754e55.css"
     ],
-    "file": "assets/Index-fa446da5.js",
+    "file": "assets/Index-87761829.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -37,7 +37,7 @@
     "src": "resources/js/Pages/Dashboard/Operational/Orders/Index.jsx"
   },
   "resources/js/Pages/Welcome.jsx": {
-    "file": "assets/Welcome-6ea02857.js",
+    "file": "assets/Welcome-ae605944.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -57,7 +57,7 @@
       "resources/js/Pages/Dashboard/Operational/Orders/Index.jsx",
       "resources/js/Pages/Welcome.jsx"
     ],
-    "file": "assets/app-edd03e12.js",
+    "file": "assets/app-c00b9c72.js",
     "isEntry": true,
     "src": "resources/js/app.jsx"
   }
