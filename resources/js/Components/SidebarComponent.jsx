@@ -1,6 +1,6 @@
 
 import { Link } from '@inertiajs/react';
-// Jika ingin pakai usePage, bisa import juga: import { usePage } from '@inertiajs/react';
+import { HomeIcon, CalendarIcon, DocumentTextIcon, TruckIcon, ChartBarIcon, UserIcon, ArchiveBoxIcon, LockClosedIcon } from '@heroicons/react/24/outline';
 
 export default function SidebarComponent({ open = true }) {
 	return (
