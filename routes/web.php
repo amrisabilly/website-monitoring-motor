@@ -18,7 +18,7 @@ use Inertia\Inertia;
 
 Route::get('/', function () {
     return Inertia::render('Dashboard/Index');
-});
+})->name('dashboard');
 
 
 require __DIR__.'/auth.php';
