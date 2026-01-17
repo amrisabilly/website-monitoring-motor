@@ -24,7 +24,7 @@
     "css": [
       "assets/Index-09754e55.css"
     ],
-    "file": "assets/Index-2c83d6a0.js",
+    "file": "assets/Index-a9334cd4.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -37,7 +37,7 @@
     "src": "resources/js/Pages/Dashboard/Operational/Orders/Index.jsx"
   },
   "resources/js/Pages/Welcome.jsx": {
-    "file": "assets/Welcome-fd1427f5.js",
+    "file": "assets/Welcome-6eba483b.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -57,7 +57,7 @@
       "resources/js/Pages/Dashboard/Operational/Orders/Index.jsx",
       "resources/js/Pages/Welcome.jsx"
     ],
-    "file": "assets/app-dc5a274d.js",
+    "file": "assets/app-b226c0d1.js",
     "isEntry": true,
     "src": "resources/js/app.jsx"
   }

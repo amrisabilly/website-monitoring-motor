@@ -1,0 +1,1 @@
+import{j as e}from"./app-b226c0d1.js";function t(){return e.jsx("div",{className:"min-h-screen bg-sky-200 flex justify-center items-center",children:e.jsx("h1",{className:"text-2xl font-bold",children:"Hello World"})})}export{t as default};
